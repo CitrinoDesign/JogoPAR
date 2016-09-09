@@ -1,1 +1,1 @@
-# html game for ceva
+# html 'find pairs' game
